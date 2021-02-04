@@ -1,0 +1,19 @@
+/* footer */
+
+.logo {
+    height: 25px;
+}
+
+footer {
+    background-color: #040458;
+    color: white;
+    border: none;
+    /* height: 100%; */
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    /* width: 100%; */
+    letter-spacing: 3px;
+	font-size: 1em;
+
+}

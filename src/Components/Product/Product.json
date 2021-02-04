@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "name": "2018  Gulfstream  G450",
+            "description": "|7  passengers  |  8.5  hrs  |  540mph  |",
+            "price": "$38,000,000",
+            "image": "https://bit.ly/3cPO2UC",
+            "productType": "Jet",
+            "Id": 1,
+            "cost": "medium"
+        },
+        {
+            "name": "2020  Gulfstream  G650 ",
+            "description": "|  14  passengers  |  14  hrs  |  545mph  |",
+            "price": "$73,000,000",
+            "image": "https://bit.ly/2Skjelv",
+            "productType": "Jet",
+            "Id": 2,
+            "cost": "high"
+        },
+        {
+            "name": "2020  Gulfstream  G550 ",
+            "description": "|  12  passengers  |  13.5  hrs  |  547mph  |",
+            "price": "$65,000,000",
+            "image": "https://bit.ly/3cTu3EH",
+            "productType": "Jet",
+            "Id": 3,
+            "cost": "high"
+        },
+        {
+            "name": "2018  Airbus ",
+            "description": "|  10  passengers  |  9  hrs  |  527mph  |",
+            "price": "$44,000,000",
+            "image": "https://bit.ly/3iqaXXZ",
+            "productType": "Jet",
+            "Id": 4,
+            "cost": "medium"
+        },
+        {
+            "name": "2020  Gulfstream  G550",
+            "description": "|  8  passengers  |  11  hrs  |  540mph  |",
+            "price": "$62,000,000",
+            "image": "https://bit.ly/3lbBQ3J",
+            "productType": "Jet",
+            "Id": 5,
+            "cost": "high"
+        },
+        {
+            "name": "2019  Bombardier/Challenger  350",
+            "description": "|  7  passengers  |  8.5  hrs  |  540mph  |",
+            "price": "$47,500,000",
+            "image": "https://bit.ly/2Gn5bZY",
+            "productType": "Jet",
+            "Id": 6,
+            "cost": "medium"
+        },
+        {
+            "name": "2012  Mairo",
+            "description": "|  sleeps  12  passengers  |  93  ft  |  speed  21  knots  |",
+            "price": " $8,540,000",
+            "image": "https://bit.ly/3nrSbTQ",
+            "productType": "Yacht",
+            "Id": 7,
+            "cost": "low"
+        },
+        {
+            "name": "2018  Tankoa ",
+            "description": "|  sleeps  14  passengers  |  231  ft  |  speed  17  knots  |",
+            "price": "  $6,890,000",
+            "image": "https://bit.ly/3jvndrj",
+            "productType": "Yacht",
+            "Id": 8,
+            "cost": "low"
+        },
+        {
+            "name": "2019  Samba ",
+            "description": "|  sleeps 10  passengers  |  114 ft  |  speed 16 knots  |",
+            "price": "$14,750,000",
+            "image": "https://bit.ly/3jz25As",
+            "productType": "Yacht",
+            "Id": 9,
+            "cost": "low"
+        },
+        {
+            "name": "2019  Angelus ",
+            "description": "|  sleeps  12  passengers  |  121 ft  |  speed  17  knots  |",
+            "price": "$19,500,000",
+            "image": "https://bit.ly/2EYwoBA",
+            "productType": "Yacht",
+            "Id": 10,
+            "cost": "low"
+        },
+        {
+            "name": "2018  Ferretti",
+            "description": " |  sleeps  10  passengers  |  101  ft  |  speed  21  knots  |",
+            "price": "$12,900,000",
+            "image": "https://images.boats.com/resize/1/4/30/7680430_0_071220201038_0.jpg?t=1607366248000",
+            "productType": "Yacht",
+            "Id": 11,
+            "cost": "low"
+        },
+        {
+            "name": "2019  Andreas ",
+            "description": "|  sleeps  14  passengers  |  196  ft  |  speed  15  knots  |",
+            "price": "$21,999,000",
+            "image": "https://bit.ly/33rgVn8",
+            "productType": "Yacht",
+            "Id": 12,
+            "cost": "medium"
+        }
+    ]
+}
