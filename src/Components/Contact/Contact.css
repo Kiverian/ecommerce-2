@@ -61,3 +61,24 @@ input::placeholder {
     color: #fefefe;
   }
   
+
+
+  @media screen and (max-width: 450px){
+
+    h2{
+      text-align: center;
+      font-size: 1.5em;
+      font-weight: lighter;
+      margin-top: 20px;
+      color: #222;
+  }
+  input::placeholder {
+    font-size: 7px;
+    font-weight: lighter;
+    /* color: #bbb; */
+    text-align: center;
+  }
+  textarea{
+    font-size: 10px;
+  }
+  }

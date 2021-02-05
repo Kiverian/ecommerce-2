@@ -54,3 +54,12 @@ h4, p {
   margin-right: auto;
   font-family: 'Caveat';
 }
+
+
+@media screen and (max-width: 450px){
+
+  div .jet-img{
+    width: 150px;
+    height: 150px;
+  }
+}

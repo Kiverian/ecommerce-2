@@ -1,5 +1,6 @@
 import React from 'react';
-
+//All the products 
+//React.fragment returns all the elements inside of multiple elements
 class Products extends React.Component {
     render() {
         return (
